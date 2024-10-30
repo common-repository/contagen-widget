@@ -1,0 +1,18 @@
+.cgwgt_wrap{
+	font-size: 14px!important;
+}
+.cgwgt_wrap .contact_info.has_icons div i, .cgwgt_wrap .contact_info.has_icons div .txt {
+    display: table-cell;
+}
+
+.cgwgt_wrap .contact_info.has_icons div i {
+	width: 2em;
+}
+.cgwgt_wrap .align_right .txt {
+    text-align: right;
+    width: 100%;
+}
+.cgwgt_wrap .align_center .txt {
+    text-align: center;
+    width: 100%;
+}
